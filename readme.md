@@ -58,10 +58,6 @@ Este projeto foi desenvolvido com as seguintes tecnologias web clássicas:
 
 ## 🖥 Demonstração
 
-*(Adicione aqui um GIF ou um Print da tela mostrando o seu site funcionando)*
-
-> **Dica:** Tire um print bacana do seu site aberto no navegador, salve na pasta `src/imagens/` com o nome `preview.png` e tire o comentário da linha abaixo:
-> 
 > <img src="src/imagens/capa1.png" alt="Demonstração do Portfólio">
 > <img src="src/imagens/capa2.png" alt="Demonstração do Portfólio">
 
